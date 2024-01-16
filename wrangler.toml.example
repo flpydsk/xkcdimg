@@ -1,0 +1,4 @@
+name = "xkcdimg"
+main = "src/worker.js"
+compatibility_date = "2024-01-16"
+workers_dev = false
